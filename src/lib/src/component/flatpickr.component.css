@@ -1,0 +1,9 @@
+.calendarInput {
+  border: 1px solid #c3c3c3;
+  width: 100%;
+  padding: 8px;
+  max-width: 360px;
+  border-radius: 3px;
+  background: #fff;
+  cursor: pointer;
+}
