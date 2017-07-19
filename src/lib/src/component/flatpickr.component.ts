@@ -2,7 +2,6 @@ import {
   Component, ChangeDetectionStrategy, Input, ViewChild,
   ElementRef, Output, EventEmitter
 } from '@angular/core';
-
 import * as Flatpickr from 'flatpickr';
 
 interface IFlatPickrDateObject {
