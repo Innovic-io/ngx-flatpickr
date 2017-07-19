@@ -1,6 +1,6 @@
 {
   "name": "ngx-flatpickr",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Flatpickr integration for Angular 2+",
   "main": "./bundles/ngx-flatpickr.umd.js",
   "module": "./ngx-flatpickr.es5.js",
