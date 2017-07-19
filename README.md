@@ -1,5 +1,7 @@
 # Flatpickr integration for Angular (v2+)
 
+# NOT READY YET
+
 Flatpickr wrapper for Angular 2+
 https://chmln.github.io/flatpickr/
 
